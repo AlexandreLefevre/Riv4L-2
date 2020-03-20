@@ -1,0 +1,12 @@
+node_modules
+*.log
+doc/
+*.swp
+*.lock
+package-lock.json
+.DS_Store
+#dist#
+package-lock.json
+yarn.lock
+.nyc_output/*
+.idea
